@@ -1,0 +1,1 @@
+const teste = require('@babel/core')
